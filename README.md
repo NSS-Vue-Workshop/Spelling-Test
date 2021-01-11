@@ -26,7 +26,3 @@ For this project, create a spelling test that makes use of the webkit speech API
 ## Part 3
 
 1. As the user is taking the test, show them how many questions they have remaining (e.g. "Word 4 of 10")
-
-#### Stuck?
-
-Need help? Try the [Code by Numbers](./spelling-test_CBN.md)
