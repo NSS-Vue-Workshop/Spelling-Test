@@ -85,8 +85,6 @@ button {
   transition: all 0.4 s;
   font-size: 1.5rem;
   cursor: pointer;
-}
-button:hover {
   color: white;
   background-color: black;
 }
