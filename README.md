@@ -13,7 +13,7 @@ For this project, create a spelling test that makes use of the webkit speech API
 
 ## Part 1
 
-1. Use [this data](./src/spellingData.js) to generate a list of spelling prompts
+1. Use [this data](./src/data.js) to generate a list of spelling prompts
 1. Show the user a button that will speak the current word when clicked.
 1. Give the user a text input to type in their spelling of the word and a button to submit. Turn off spellcheck on the input (otherwise what's the point??)
 1. When the user submits the spelling of a word, empty the input and allow the user to hear the next word and repeat the process
